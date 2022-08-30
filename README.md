@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @novababe.
 - 👀 I’m interested in learning Github for future projects and work.
 - 🌱 I’m currently learning how to mod.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m not looking to collaborate.
 - 📫 How to reach me nicolapayze@gmail.com
 
 <!---
